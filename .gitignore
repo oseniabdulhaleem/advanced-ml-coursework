@@ -1,0 +1,33 @@
+# Heavy artifacts (kept locally, not committed)
+SupportingDocuments/
+SupportingDocuments.zip
+*.mp4
+*.pptx
+
+# Trained models / RL policies & logs
+policies/
+logs/
+*.zip
+biomed-output/
+task1_vqa/biomed-output/
+
+# Datasets / downloaded data
+data/
+**/data/slake/
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,19 @@
+# Core deep learning
+torch
+torchvision
+numpy
+scikit-learn
+Pillow
+
+# Task 1 — Medical VQA (SLAKE)
+transformers
+datasets
+huggingface_hub
+open_clip_torch==2.23.0
+langgraph
+
+# Task 2 — Deep RL (Walker2d-v5)
+stable-baselines3
+gymnasium[mujoco]
+mujoco
+tensorboard
